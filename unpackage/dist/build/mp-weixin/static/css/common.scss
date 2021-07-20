@@ -1,0 +1,70 @@
+.card-shadow {
+	box-shadow: 0 0 2px 0 #dedede;
+}
+.color-front-main {
+	color: #409eff;
+}
+.bg-white {
+	background-color: #ffffff;
+}
+.u-iconfont {
+	color: #409eff;
+}
+/* 页面 wrapper */
+.page-wrapper {
+	padding: 10upx;
+}
+.form {
+  padding: 10upx;
+}
+/* fix */
+.u-form-item {
+  padding: 6px 0!important;
+}
+.u-form-item--left__content__label {
+  font-size:14px;
+  font-weight:400;
+  line-height:14px;
+  color:rgba(138,138,142,1);
+}
+.u-input__textarea {
+  padding: 0;
+}
+.u-cell {
+  width: auto!important;
+  margin: 0 17px!important;
+  padding: 14px 0!important;
+}
+.u-cell_title {
+  font-size: 14px!important;
+}
+.uni-input-placeholder {
+  color: rgb(212, 212, 213)!important;
+  line-height: 1!important;
+  font-size: 14px!important;
+}
+.form-wrapper {
+  padding: 6px 18px!important;
+}
+.u-steps .u-steps__item {
+  font-size: 12px!important;
+}
+.u-steps .u-steps__item__num {
+  width: 20px!important;
+  height: 20px!important;
+}
+.u-hairline-border:after {
+  border: none!important;
+}
+.u-select__header__title {
+  font-size: 18px!important;
+}
+
+/* success 背景前景反色 */
+.anti-success {
+  color: $u-type-success!important;
+}
+
+.u-btn--error--plain {
+  background-color: #ffffff !important;
+}

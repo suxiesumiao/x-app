@@ -1,0 +1,1 @@
+<view class="{{['detail-item data-v-38fc5a92',(gap)?'gap':'']}}"><view class="detail-title data-v-38fc5a92" style="{{'min-width:'+(labelWidth+'px')+';'}}">{{''+detailTitle+''}}<slot name="title"></slot></view><view class="detail-content data-v-38fc5a92" style="{{'text-align:'+(align)+';'}}">{{''+detailContent+''}}<slot name="content"></slot></view></view>

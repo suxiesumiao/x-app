@@ -1,0 +1,10 @@
+{
+  "navigationStyle": "custom",
+  "navigationBarTitleText": "",
+  "usingComponents": {
+    "u-navbar": "/uview-ui/components/u-navbar/u-navbar",
+    "nnkjc-detail-group": "/components/nnkjc-detail-group/nnkjc-detail-group",
+    "nnkjc-detail-item": "/components/nnkjc-detail-item/nnkjc-detail-item",
+    "u-button": "/uview-ui/components/u-button/u-button"
+  }
+}

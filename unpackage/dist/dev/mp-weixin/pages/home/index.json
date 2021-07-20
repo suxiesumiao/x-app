@@ -1,0 +1,9 @@
+{
+  "navigationStyle": "custom",
+  "popGesture": "none",
+  "navigationBarTitleText": "海纳电商",
+  "usingComponents": {
+    "u-toast": "/uview-ui/components/u-toast/u-toast",
+    "u-empty": "/uview-ui/components/u-empty/u-empty"
+  }
+}

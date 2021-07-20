@@ -1,0 +1,27 @@
+@font-face {font-family: "xhsz-nndt";
+  src: url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAUQAAsAAAAACcQAAATDAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDGgqGbIVBATYCJAMUCwwABCAFhHkHShtDCMgusG3YkzGGMyOEI2psYFzwchRBtV9vz8LBewFkGwkkCR1R+cT9cyH07FFYFpYVoIu+oTxrkrSbeqksyXaCRdJL5uAseJC7Zzw+4ov8gv938yaOleCYYAcYBhZI+AHbGElcYL20qEZYAPGV7wD0//+9ysnWb/Gcax/Akv0yxqAxt1DAAzLW0NViwUtYMewiu4gjatGnCTTmCIdtLiyvByoFmhSIcxzTA1QppVKDhZ6kU7KyiJuA66VL+E2A3PB/P36DIlQkNUNn7ThRYALZ3yK+RWf5v6zNMoDh9JDWkbEKUIhDpcY9iNCzCqExjArL6gcXwbdsOORb7LIW+w+PkGSF6EBoFEtZ7y18iylO8C3BSXxLcTLfMs7DQJUb32AiEFOB2MJIFw05O+uqEyYoFPOKzXgnne0odMP0RpEXXzBMXz4+5N6/7Vh2yZXbAkcvLli/Mgyt9ZVNdzr1bdym1zvUa/FGqzk6vQ1t0mpj1GWLG7Ftpn6fI6745sManfbKBnm9phHTOAMV4V17OBMbN2r6tcs2DXl6TQwG2QOgexuMOstjzcOH9XCnpC1HIM+YcVdutQzse4rORz73H+Zfj2eBN2zEiCcJT5407Yl+GWi6pzpp1q+XNzTopl2FVp9D9THmqN/Uj5n29eujDdplzk30MWYGbw3NtATuDzYx6bVZmzY4ZmyQTUyNqb6pxrg4uXx4+EgLphzMOOu1B3UvrwI2ci3B+sINjBhsTMrWfnBIOUGr0eiAByfv1qAcPPppTYCLPSQ/kNDeJUAarYcVwwm63cn1ybHJ6BxQspWcNEyRKNfF8YrimOKK41m/l0uuRE4ZJsl1VC4rS46KdcpjVvI3nyUnrY4pp0hwfKNZddn2iqq9Qm2xvazuUVlur123Ld8rpBJjWawyOrSqZA+ZtFPaXcRX4PMHlnjW1t57Sel6A/3F3b1bf+cqlZd/stmGcRxWaSj0JRR/nm7tyW6Rt5pd+x4+WyUaVNlqFm1NYOZs+WeAbi+GLbkZPk1riXk3AjF8/Ihs66ZvjIN3V4+T5bcex5/Vh7v5ocFwINjR8ZnDJHOMfXH+3l/7TcNY+37ten3Hlhr8eRPtN+d/2mXR3/x2+32LPsnsfU77DfQAhucJHeSr+GWbKbcQduZL+J9/bJT338r3XSr9Pz7njg8i/SDvHCoA7u1JSOw/ig1sKiYXqWrRSylLj65OIXlT+RoNhiHrBM+GEU8GxxL6JseQdM2BrG8xoVDWQNVaCx19G6GxUtn61kRzEKL0scIUA2GCM5CM8QqyCR4QCuUtVFN8h44JoYfGvvDesbUkZmvyRNiDoInqnU9xRoGnyRVIM4+VFkTwvAnVQmb2QI+Y5gXTGqEocQJPxURG5/1FkIfiMHOkOUwsQjRFi8IgVdjjeXBgQKDMotAHjSiSRcicGhVFlz0p0igMAo1NRFAPBDKh9JqPwjES8Gj3L0I0zmNJFojA45kgtSDGbAN6iHUVcq5GkCgjbsDuKDEiRUMIRYiHlV3SPMkcjFgIQqNorkgwiFK4SD00gD0Cirl8WB/ICInEdnCZpYri2tFQFLlZ8eCdFmCrQHNqpMhRokZHPXxFBw9aSUYRQp5kOQkJ4nzlXJFDEAAA') format('woff2'); /* iOS 4.1- */
+}
+
+.xhsz-nndt {
+  font-family: "xhsz-nndt" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.xhsz-nndt-alarm:before {
+  content: "\e62d";
+}
+
+.xhsz-nndt-screen:before {
+  content: "\e62e";
+}
+
+.xhsz-nndt-history:before {
+  content: "\e62f";
+}
+
+.xhsz-nndt-write:before {
+  content: "\e630";
+}

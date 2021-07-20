@@ -1,0 +1,13 @@
+{
+  "navigationStyle": "custom",
+  "popGesture": "none",
+  "navigationBarTitleText": "",
+  "usingComponents": {
+    "common-header": "/components/common-header/common-header",
+    "common-select": "/components/common-select/common-select",
+    "u-select": "/uview-ui/components/u-select/u-select",
+    "nnkjc-task-item": "/components/nnkjc-task-item/nnkjc-task-item",
+    "u-toast": "/uview-ui/components/u-toast/u-toast",
+    "u-empty": "/uview-ui/components/u-empty/u-empty"
+  }
+}

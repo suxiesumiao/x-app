@@ -1,0 +1,55 @@
+{
+    "name": "sand-plugin-wifi",
+    "id": "sand-plugin-wifi",
+    "version": "1.0.1",
+    "description": "获取手机当前WiFi信息，包括有SSID，BSSID",
+    "_dp_type":"nativeplugin",
+    "_dp_nativeplugin":{
+        "android": {
+            "plugins": [
+                {
+                    "type": "module",
+                    "name": "sand-plugin-wifi",
+                    "class": "com.sand.plugin.wifi.SandPluginWifi"
+                }
+            ],
+            "integrateType": "aar",
+            "compileOptions": {
+                "sourceCompatibility": "1.8",
+                "targetCompatibility": "1.8"
+            },
+            "minSdkVersion": "20",
+            "permissions": [  
+                "<uses-permission android:name=\"android.permission.INTERNET\"/>",
+                "<uses-permission android:name=\"android.permission.ACCESS_NETWORK_STATE\"/>",
+                "<uses-permission android:name=\"android.permission.ACCESS_WIFI_STATE\"/>",
+                "<uses-permission android:name=\"android.permission.ACCESS_COARSE_LOCATION\"/>",
+                "<uses-permission android:name=\"android.permission.ACCESS_BACKGROUND_LOCATION\"/>",
+                "<uses-permission android:name=\"android.permission.ACCESS_FINE_LOCATION\"/>"
+            ],
+            "useAndroidX": false
+        },
+        "ios": {
+            "plugins": [
+                {
+                    "type": "module",
+                    "name": "sand-plugin-wifi",
+                    "class": "SandPluginWifi" 
+                }
+            ],
+            "integrateType": "framework",
+             "capabilities": {
+                "entitlements": {
+                    "com.apple.developer.networking.wifi-info":true
+                },  
+                "plists": {
+                    "NSLocationAlwaysAndWhenInUseUsageDescription":"获取WiFi信息需要的关联权限信息",
+                    "NSLocalNetworkUsageDescription":"获取WiFi信息需要的关联权限信息",
+                    "NSLocationAlwaysUsageDescription": "获取WiFi信息需要的关联权限信息",
+                    "NSLocationWhenInUseUsageDescription":"获取WiFi信息需要的关联权限信息"
+                }  
+            },
+            "deploymentTarget": "9.0"
+        }
+    }
+}

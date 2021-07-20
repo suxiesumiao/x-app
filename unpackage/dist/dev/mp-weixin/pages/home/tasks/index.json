@@ -1,0 +1,12 @@
+{
+  "navigationStyle": "custom",
+  "navigationBarTitleText": "",
+  "usingComponents": {
+    "u-navbar": "/uview-ui/components/u-navbar/u-navbar",
+    "nnkjc-capsule-select": "/components/nnkjc-capsule-select/nnkjc-capsule-select",
+    "common-select": "/components/common-select/common-select",
+    "u-select": "/uview-ui/components/u-select/u-select",
+    "nnkjc-task-item": "/components/nnkjc-task-item/nnkjc-task-item",
+    "u-toast": "/uview-ui/components/u-toast/u-toast"
+  }
+}

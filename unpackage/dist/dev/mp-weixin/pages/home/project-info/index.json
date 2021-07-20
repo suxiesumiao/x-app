@@ -1,0 +1,11 @@
+{
+  "navigationStyle": "custom",
+  "navigationBarTitleText": "",
+  "usingComponents": {
+    "u-navbar": "/uview-ui/components/u-navbar/u-navbar",
+    "u-image": "/uview-ui/components/u-image/u-image",
+    "nnkjc-detail-group": "/components/nnkjc-detail-group/nnkjc-detail-group",
+    "nnkjc-detail-item": "/components/nnkjc-detail-item/nnkjc-detail-item",
+    "u-parse": "/uview-ui/components/u-parse/u-parse"
+  }
+}

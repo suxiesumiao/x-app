@@ -1,0 +1,18 @@
+{
+  "name": "source-han-sans-sc-ttf",
+  "version": "1.0.0",
+  "description": "A fork of Source Han Sans SC release, only contains TTF format.",
+  "main": [
+    "./dist/SourceHanSansSC-Bold.ttf",
+    "./dist/SourceHanSansSC-ExtraLight.ttf",
+    "./dist/SourceHanSansSC-Heavy.ttf",
+    "./dist/SourceHanSansSC-Light.ttf",
+    "./dist/SourceHanSansSC-Medium.ttf",
+    "./dist/SourceHanSansSC-Normal.ttf",
+    "./dist/SourceHanSansSC-Regular.ttf"
+  ],
+  "moduleType": [],
+  "keywords": [
+    "font"
+  ]
+}

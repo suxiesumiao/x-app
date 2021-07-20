@@ -1,0 +1,45 @@
+uni-page-body {
+  height: 100%;
+}
+.margin-normal {
+  margin: 20px;
+}
+.padding-normal {
+  padding: 16px;
+}
+.padding-bottom-normal {
+  padding-bottom: 20px;
+}
+.radius-normal {
+  border-radius: 16px;
+  overflow: hidden;
+}
+.radius-max {
+  border-radius: 30px;
+  overflow: hidden;
+}
+.u-navbar-inner {
+  // background-color: #f2f2f8;
+  & > .u-navbar-content-title {
+    font-weight: bold;
+  }
+}
+
+.u-image__image > div {
+  background-size: contain!important;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-left {
+  text-align: left;
+}
+
+.text-right {
+  text-align: right;
+}
+.font-size-small {
+  font-size: 12px;
+}

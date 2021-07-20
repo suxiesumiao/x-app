@@ -1,0 +1,1 @@
+<view class="common-header data-v-32171fe4"><view class="header data-v-32171fe4"><text class="data-v-32171fe4">{{title}}</text></view><view class="content data-v-32171fe4"><slot name="operation"></slot></view></view>

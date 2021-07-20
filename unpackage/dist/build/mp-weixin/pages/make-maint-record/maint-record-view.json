@@ -1,0 +1,14 @@
+{
+  "navigationStyle": "custom",
+  "navigationBarTitleText": "",
+  "usingComponents": {
+    "u-navbar": "/uview-ui/components/u-navbar/u-navbar",
+    "nnkjc-detail-group": "/components/nnkjc-detail-group/nnkjc-detail-group",
+    "nnkjc-detail-item": "/components/nnkjc-detail-item/nnkjc-detail-item",
+    "common-header": "/components/common-header/common-header",
+    "u-row": "/uview-ui/components/u-row/u-row",
+    "u-col": "/uview-ui/components/u-col/u-col",
+    "u-image": "/uview-ui/components/u-image/u-image",
+    "u-toast": "/uview-ui/components/u-toast/u-toast"
+  }
+}
